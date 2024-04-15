@@ -54,7 +54,7 @@ I'm a beginner Backend developer. I'm interested in Microsoft products, particul
        <img src="https://img.shields.io/badge/HTTP 1.0-black"/>  
        <img src="https://img.shields.io/badge/HTTP 2.0-black"/>  
        <img src="https://img.shields.io/badge/HTTPS 2.0-black"/>  
-       <img src="https://img.shields.io/badge/Mupping-black"/>  
+       <img src="https://img.shields.io/badge/Mapping-black"/>  
 </p>
 
 ### Distributed version control
